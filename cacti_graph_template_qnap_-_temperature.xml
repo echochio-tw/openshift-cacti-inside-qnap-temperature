@@ -567,9 +567,9 @@
 		</data>
 	</hash_0100249ed9bdd4ea882ffbfc7584928455f91a>
 	<hash_030024b4edf31e2c742c6d5810a5cc3553df76>
-		<name>nas-253</name>
+		<name>nas</name>
 		<type_id>1</type_id>
-		<input_string>perl &lt;path_cacti&gt;/scripts/nas-253.pl</input_string>
+		<input_string>perl &lt;path_cacti&gt;/scripts/cacti-shlle-qnap.temperature.pl</input_string>
 		<fields>
 			<hash_0700247eb9b3f95c0c86bb60b49e1f47c8b0bc>
 				<name>hd4temp</name>
