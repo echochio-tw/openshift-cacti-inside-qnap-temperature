@@ -12,3 +12,5 @@ import cacti_graph_template_qnap_-_temperature.xml
 
 (or you can down from ....http://forums.cacti.net/viewtopic.php?f=12&t=49715 )
 
+![alt tag](https://github.com/chio-nzgft/openshift-cacti-inside-qnap-temperature/raw/master/p2.png)
+
